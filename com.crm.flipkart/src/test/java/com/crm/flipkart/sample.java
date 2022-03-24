@@ -4,6 +4,8 @@ public class sample {
  
 	public void demo1() {
 		System.out.println("aaaaaa");
+		
+		System.out.println("naaaaaa");
 	}
 
 }
